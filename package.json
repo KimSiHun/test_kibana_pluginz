@@ -1,0 +1,19 @@
+{
+  "name": "test_kibana_pluginz",
+  "version": "1.0.0",
+  "description": "practice kibana plugin how to make",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimSiHun/test_kibana_pluginz.git"
+  },
+  "author": "@sihunkim <paradaise119@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimSiHun/test_kibana_pluginz/issues"
+  },
+  "homepage": "https://github.com/KimSiHun/test_kibana_pluginz#readme"
+}
