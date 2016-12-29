@@ -30,13 +30,17 @@ define(function(require){
         defaults:{
           /*
             init params info
+            font size, width, height and other options.......
           */
         },
         editor: require('plugins/test_kibana_pluginz/test_kibana_pluginz_params.html')
       },
       // schemas init
       schemas: new Schemas([
-
+        /*
+          define use schemas
+          group, name, title, min, max, defaults:[{schema: '' , type: ''}]
+        */
       ])
     });
 
